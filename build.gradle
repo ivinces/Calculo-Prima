@@ -7,7 +7,6 @@
  */
 
 plugins {
-    id 'pmd'
     id 'java-library'
     //id 'checkstyle'
 }
