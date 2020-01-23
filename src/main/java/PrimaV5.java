@@ -54,7 +54,7 @@ public class PrimaV5 {
         else if(edad>=45 && edad<65 && ptos>=23){
             return 150;
         }
-        else if(edad>=65 && ptos>=25){
+        else if(edad>=65 && ptos>=26){
             return 200;
         }
         else{
